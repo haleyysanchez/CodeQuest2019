@@ -1,3 +1,9 @@
+/**
+ * This is the 5th problem in the problem packet.
+ *
+ * @author Haley Sanchez & Allen Martinez
+ */
+
 import java.util.*;
 public class prob5
 {
