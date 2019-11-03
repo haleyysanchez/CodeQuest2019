@@ -1,3 +1,9 @@
+/**
+ * This is the 9th problem in the problem packet.
+ *
+ * @author Haley Sanchez & Allen Martinez
+ */
+
 import java.util.*;
 public class prob9
 {
@@ -20,7 +26,7 @@ public class prob9
                 else
                 if(str.equals("m"))
                 {
-                    
+                    //not finished
                 }
                 else
                 if(str.equals("h"))
