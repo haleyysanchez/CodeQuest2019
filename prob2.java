@@ -14,7 +14,8 @@ public class prob2
         for(int testCase = 0; testCase < testCases; testCase++)
         {
             int one = in.nextInt();
-            int two = in.nextInt(); int d = (one + two)*2;
+            int two = in.nextInt(); 
+            int d = (one + two)*2;
             if(one == two)
             {System.out.println(d);}
             else if(one != two)
