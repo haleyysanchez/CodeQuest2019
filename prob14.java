@@ -18,7 +18,8 @@ public class prob14
             for(int i = 0; i< n; i++)
              {
                  String l = in.nextLine();
-                }
+                //not finished
+             }
         }
     }
 }
