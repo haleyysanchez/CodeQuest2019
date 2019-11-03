@@ -18,6 +18,7 @@ public class prob11
             for (int i = 0; i<bit; i++)
             {
                 num.add(0);
+                //not finished
             }
         }
     }
