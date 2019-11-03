@@ -1,10 +1,9 @@
-
 /**
- * Write a description of class prob2 here.
+ * This is the 2nd problem in the problem packet.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Haley Sanchez & Allen Martinez
  */
+
 import java.util.*;
 public class prob2
 {
