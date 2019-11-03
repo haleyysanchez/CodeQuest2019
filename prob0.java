@@ -1,9 +1,10 @@
 
 /**
- * Write a description of class prob0 here.
+ * This is the first problem they had us complete, before the competition started, to
+ * make sure that we could use the judging website correctly.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Haley Sanchez & Allen Martinez
+ * 
  */
 import java.util.*;
 public class prob0
