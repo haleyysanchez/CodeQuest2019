@@ -1,10 +1,9 @@
-
 /**
- * Write a description of class prob4 here.
+ * This is the 4th problem in the problem packet.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Haley Sanchez & Allen Martinez
  */
+
 import java.util.*;
 public class prob4
 {
