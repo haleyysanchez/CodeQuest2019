@@ -3,7 +3,7 @@ PURPOSE OF PROJECT:
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS: 
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: 
 
 The code in this repositiory is from the CodeQuest 2019 competition.
 My partner and I had 2.5 hours to work through the problem packet. We started
